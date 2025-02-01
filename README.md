@@ -42,7 +42,7 @@ Feel free to explore my portfolio of **data analytics and machine learning proje
 - **Deep Learning**: CNN, RNN, LSTM, GNN  
 - **Database Management**: MySQL, MS Access, NoSQL  
 - **Frameworks & Tools**: Django, Azure, R Shiny, Git  
-
+- **Tableau**: https://public.tableau.com/app/profile/mrunal.jadhav6261/vizzes     
 ---
 
 ## Certifications 🎓
