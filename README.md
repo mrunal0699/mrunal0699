@@ -11,7 +11,7 @@ Feel free to explore my portfolio of **data analytics and machine learning proje
 📫 **Email**: [jmrunal999@gmail.com](mailto:jmrunal999@gmail.com)  
 ☎ **Phone Number**: +1 (520)-934-2362  
 🌐 **Portfolio Projects**: [Check out my repositories here](https://github.com/mrunal0699)  
-📝 **Blogs**: [Thought Threads](https://mrunal0699.github.io/)  
+📝 **Blogs**: [Thought Threads](https://github.com/mrunal0699/mrunal0699.github.io)  
 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mrunal-jadhav-94a36a20a/)
 
 ---
