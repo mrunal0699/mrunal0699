@@ -9,10 +9,11 @@ I am **Mrunal Jadhav**, a recent **graduate (Dec 2024)** with a Master's in **In
 Feel free to explore my portfolio of **data analytics and machine learning projects**. Let’s connect and collaborate!  
 
 📫 **Email**: [jmrunal999@gmail.com](mailto:jmrunal999@gmail.com)  
-🌐 **Portfolio Projects**: Check out my [repositories here](https://github.com/mrunal0699). 
-📝 **Blogs**: [Thought Threads](https://github.com/mrunal0699/mrunal0699.github.io).
-💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mrunal-jadhav-94a36a20a/)  
-☎ **Phone Number**: +1 (520)-934-2362
+☎ **Phone Number**: +1 (520)-934-2362  
+🌐 **Portfolio Projects**: [Check out my repositories here](https://github.com/mrunal0699)  
+📝 **Blogs**: [Thought Threads](https://mrunal0699.github.io/)  
+💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mrunal-jadhav-94a36a20a/)
+
 ---
 
 ## Featured Projects 🚀
@@ -43,7 +44,8 @@ Feel free to explore my portfolio of **data analytics and machine learning proje
 - **Deep Learning**: CNN, RNN, LSTM, GNN  
 - **Database Management**: MySQL, MS Access, NoSQL  
 - **Frameworks & Tools**: Django, Azure, R Shiny, Git  
-- **Tableau**: https://public.tableau.com/app/profile/mrunal.jadhav6261/vizzes     
+- **Tableau Portfolio**: [View Here](https://public.tableau.com/app/profile/mrunal.jadhav6261/vizzes)
+
 ---
 
 ## Certifications 🎓
