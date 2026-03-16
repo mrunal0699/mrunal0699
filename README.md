@@ -51,7 +51,7 @@ Feel free to explore my portfolio of **data analytics and machine learning proje
 ---
 
 ## Certifications 🎓
-- **Google Data Analyst Professional Certificate**  
+- **Google Professional Data Analyst Certificate**  
 - **Machine Learning Pipelines with Azure ML Studio**  
 - **Tableau Business Intelligence Analyst Professional Certificate**  
 - **Transfer Learning for NLP with TensorFlow Hub**
