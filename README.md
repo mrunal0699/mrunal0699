@@ -38,18 +38,20 @@ Feel free to explore my portfolio of **data analytics and machine learning proje
 ---
 
 ## Skills 🛠️
-- **Programming**: Python, SQL, R (Basics)  
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn, ggplot2  
-- **Machine Learning**: Regression, Classification, Clustering, NLP  
-- **Deep Learning**: CNN, RNN, LSTM, GNN  
-- **Database Management**: MySQL, MS Access, NoSQL  
-- **Frameworks & Tools**: Django, Azure, R Shiny, Git  
+- **Programming Languages**: Python, SQL, R (Basics)
+- **Machine Learning**: Data Cleaning and Preprocessing, Regression, Classification, NLP, Model Evaluation.
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Microsoft Excel (Pivot Tables, VLOOKUP, Data Validation, KPI Reporting).
+- **Database Management**: MySQL
+- **Frameworks**: Django 
+- **Cloud Computing**: Azure.
+- **Tools**: GitHub, Jupyter Notebooks, Visual Studio, PowerPoint (Executive Reporting).
+- **Soft Skills**: Stakeholder Communication, Cross-Functional Collaboration, Attention to Detail, Critical Thinking, Quick Learner.
 - **Tableau Portfolio**: [View Here](https://public.tableau.com/app/profile/mrunal.jadhav6261/vizzes)
 
 ---
 
 ## Certifications 🎓
-- **Microsoft Power BI Data Analyst Professional Certificate**  
+- **Google Data Analyst Professional Certificate**  
 - **Machine Learning Pipelines with Azure ML Studio**  
 - **Tableau Business Intelligence Analyst Professional Certificate**  
 - **Transfer Learning for NLP with TensorFlow Hub**
