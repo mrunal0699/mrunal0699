@@ -4,7 +4,13 @@
 
 Hi there! 👋  
 
-I am **Mrunal Jadhav**, a recent **graduate (Dec 2024)** with a Master's in **Information Science (Machine Learning Emphasis)** from the **University of Arizona**. I am currently seeking **entry-level Data Analyst roles** where I can apply my skills in **data visualization, machine learning, and data management** to solve real-world business problems. My technical expertise, combined with a problem-solving mindset, makes me a passionate analyst ready to contribute to data-driven decision-making.
+I am **Mrunal Jadhav**, a Master’s graduate in **Information Science (Machine Learning Emphasis)** from the **University of Arizona** (Dec 2024), with **1+ year of experience in data and analytics roles**.
+
+I work with **Python, SQL, Power BI, Tableau, and Excel** to analyze data, build dashboards, and support reporting and decision-making. My experience includes data cleaning, visualization, and analytics across academic and industry projects, along with exposure to NLP and machine learning techniques.
+
+Recently, I have also been exploring **Generative AI and Large Language Models (LLMs)** through Google certifications, with a focus on prompt engineering, productivity, and responsible AI use.
+
+I am currently open to opportunities in **Data Analyst, BI Analyst, and AI/ML Engineer (entry-level / junior)** roles, where I can apply and grow my skills in data, machine learning, and AI-driven problem solving.
 
 Feel free to explore my portfolio of **data analytics and machine learning projects**. Let’s connect and collaborate!  
 
@@ -44,14 +50,15 @@ Feel free to explore my portfolio of **data analytics and machine learning proje
 - **Database Management**: MySQL
 - **Frameworks**: Django 
 - **Cloud Computing**: Azure.
-- **Tools**: GitHub, Jupyter Notebooks, Visual Studio, PowerPoint (Executive Reporting).
+- **Tools**: GitHub, Jupyter Notebooks, Visual Studio, Excel (Pivot Tables, VLOOKUP, Data Validation), PowerPoint (Executive Reporting). 
 - **Soft Skills**: Stakeholder Communication, Cross-Functional Collaboration, Attention to Detail, Critical Thinking, Quick Learner.
 - **Tableau Portfolio**: [View Here](https://public.tableau.com/app/profile/mrunal.jadhav6261/vizzes)
 
 ---
 
 ## Certifications 🎓
-- **Google Data Analytics Professional Certificate**  
+- **Google Data Analytics Professional Certificate**
+- **Google AI Essential Professional Certificate**  
 - **Machine Learning Pipelines with Azure ML Studio**  
 - **Tableau Business Intelligence Analyst Professional Certificate**  
 - **Transfer Learning for NLP with TensorFlow Hub**
